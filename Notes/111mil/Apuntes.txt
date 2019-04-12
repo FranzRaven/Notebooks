@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-08T20:24:28+00:00
+
+====== Apuntes ======
+04/08/2019
+
+===== Desarrollo de software =====
+OOP  -> MVC model view controller
+* view     R   GUI
+* model   R controller; Domain, dominio, puede o no ser igual a la class de la DB.  
+* DB         R ORM (Object Relational Mapper)
+
+

@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-24T12:06:52-03:00
+
+====== SC ======
+Creado lunes 24 febrero 2020
+

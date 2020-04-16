@@ -2,6 +2,9 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2020-03-12T18:57:19-03:00
 
+
+
 ====== Libros ======
 Creado jueves 12 marzo 2020
 
+{{./diagram.png?type=diagram}}

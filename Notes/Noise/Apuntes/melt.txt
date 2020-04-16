@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-16T11:41:13-03:00
+
+====== melt ======
+Creado jueves 16 abril 2020
+
+* Leer e instalar lo que pide!!!!!!
+	* sox
+	* sdl-image
+
+* USAGE
+	* melt video.vid -filter filtro
+	* melt video.vid -filter filtro -consumer avformat:output1.avi acodec=libmp3lame vcodec=libx264

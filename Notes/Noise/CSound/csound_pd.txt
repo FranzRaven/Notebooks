@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-29T18:40:05-03:00
+
+====== csound pd ======
+Creado domingo 29 marzo 2020
+
+csound6~ ruta-a-orquesta.csd
+
+* __Mensajes__
+	* run 1 o 0
+	* rewind
+	* reset
+	* set (amp, freq)
+		* control amp $1 (conectar una caja de numero para enviar datos acá)
+

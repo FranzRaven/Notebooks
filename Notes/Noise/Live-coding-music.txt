@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-31T19:18:18-03:00
+
+====== Live-coding-music ======
+Creado domingo 31 mayo 2020
+
+* Iannix
+* Pd
+* Sc
+* Csound
+* OSC
+* Midi

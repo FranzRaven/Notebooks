@@ -10,4 +10,4 @@ Creation-Date: 2020-05-28T16:51:32-03:00
 [ ] Investigar iannix, osc, [[../Noise/Live-coding-music.txt]]
 
 ===== Instalar =====
-[ ] Anaconda
+[*] Anaconda

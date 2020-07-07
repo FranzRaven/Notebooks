@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-06T19:04:34-03:00
+
+====== Study ======
+Creado lunes 06 julio 2020
+

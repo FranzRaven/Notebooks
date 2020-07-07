@@ -7,7 +7,8 @@ Creado lunes 06 julio 2020
 
 
 ===== Semana I =====
-{{~/Documents/MACHINE_LEARNING/Maps-img/Machine Learning.png}}
+
+{{~/Notebooks/MACHINE_LEARNING/Maps-img/Machine Learning.png}}
 
 
 {{./equation001.png?type=equation}}

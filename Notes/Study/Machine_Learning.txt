@@ -10,10 +10,12 @@ Creado lunes 06 julio 2020
 
 {{~/Notebooks/MACHINE_LEARNING/Maps-img/Machine Learning.png}}
 
-
+hypothesis:
 {{./equation001.png?type=equation}}
 
+
 {{./equation002.png?type=equation}}
+
 
 
 

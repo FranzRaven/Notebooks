@@ -6,8 +6,13 @@ Creation-Date: 2020-07-06T19:04:44-03:00
 Creado lunes 06 julio 2020
 
 
+===== Semana I =====
+{{~/Documents/MACHINE_LEARNING/Maps-img/Machine Learning.png}}
+
+
 {{./equation001.png?type=equation}}
 
 {{./equation002.png?type=equation}}
+
 
 

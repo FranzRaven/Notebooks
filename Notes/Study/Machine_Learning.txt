@@ -13,6 +13,7 @@ Creado lunes 06 julio 2020
 
 
 ===== Hipotesis =====
+
 {{./equation001.png?type=equation}}
 
 ===== Minimizar error =====

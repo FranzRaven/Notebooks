@@ -12,7 +12,7 @@ Creado lunes 06 julio 2020
 
 
 
-===== Hipotesis =====
+===== Hipótesis =====
 
 {{./equation001.png?type=equation}}
 

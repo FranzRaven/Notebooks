@@ -18,14 +18,14 @@ Creado lunes 06 julio 2020
 
 ===== Minimizar error =====
 
-
 {{./equation002.png?type=equation}}
+
+{{./equation008.png?type=equation}}
 
 ===== Función de costo =====
 
-{{./equation004.png?type=equation}}
 
 
-
+{{./equation007.png?type=equation}}
 
 

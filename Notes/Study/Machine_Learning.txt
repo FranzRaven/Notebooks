@@ -21,6 +21,7 @@ Creado lunes 06 julio 2020
 
 ===== Función de costo =====
 
+{{./equation004.png?type=equation}}
 
 J(θ0​,θ1​)=2m1​i=1∑m​(y^​i​−yi​)2=2m1​i=1∑m​(hθ​(xi​)−yi​)
 

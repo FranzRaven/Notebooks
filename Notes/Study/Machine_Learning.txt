@@ -10,12 +10,23 @@ Creado lunes 06 julio 2020
 
 {{~/Notebooks/MACHINE_LEARNING/Maps-img/Machine Learning.png}}
 
+<<<<<<< HEAD
 hypothesis:
 {{./equation001.png?type=equation}}
 
+=======
+===== Hipotesis =====
+{{./equation001.png?type=equation}}
+
+===== Minimizar error =====
+>>>>>>> ab8f30bde94b76c0daaeabaa1e2982a584f16071
 
 {{./equation002.png?type=equation}}
 
+===== Función de costo =====
+
+{{./equation003.png?type=equation}}
+J(θ0​,θ1​)=2m1​i=1∑m​(y^​i​−yi​)2=2m1​i=1∑m​(hθ​(xi​)−yi​)
 
 
 

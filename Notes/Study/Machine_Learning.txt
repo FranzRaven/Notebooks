@@ -5,6 +5,7 @@ Creation-Date: 2020-07-06T19:04:44-03:00
 ====== Machine Learning ======
 Creado lunes 06 julio 2020
 
+{{~/Notebooks/MACHINE_LEARNING/Maps-img/Machine Learning.png}}
 
 ===== Semana I =====
 

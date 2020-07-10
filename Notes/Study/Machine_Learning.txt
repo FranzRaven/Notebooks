@@ -14,19 +14,21 @@ Creado lunes 06 julio 2020
 
 ===== Hipótesis =====
 
+{{./equation019.png?type=equation}}
 
-{{./equation013.png?type=equation}}
 
 ===== Minimizar error =====
 
 
-{{./equation011.png?type=equation}}
+{{./equation020.png?type=equation}}
+
 
 
 ===== Función de costo =====
 
 
+{{./equation021.png?type=equation}}
 
-{{./equation007.png?type=equation}}
+
 
 

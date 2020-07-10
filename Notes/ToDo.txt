@@ -11,3 +11,4 @@ Creation-Date: 2020-05-28T16:51:32-03:00
 
 ===== Instalar =====
 [*] Anaconda
+[ ] equation.tex => \DeclareMathSizes{12}{20}{13}{12}

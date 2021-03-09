@@ -1,4 +1,0 @@
-strict graph { 
-  a -- { b c d e f}
-  b -- a [color=blue]
-} 

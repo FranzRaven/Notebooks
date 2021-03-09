@@ -1,5 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2020-02-24T11:31:34-03:00
-
-====== lunes 24 feb 2020 ======

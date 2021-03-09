@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2020-05-28T16:54:04-03:00
-
-====== Blockchain plattforms ======
-Creado jueves 28 mayo 2020
-

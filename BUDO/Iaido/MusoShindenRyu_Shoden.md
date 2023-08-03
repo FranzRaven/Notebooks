@@ -1,7 +1,5 @@
-#  {{{{{{{0}}}}}}}
 #   Muso Shinden Ryu Shoden  
-#  {{{{{{{O}}}}}}}   
-
+#   
 ## 1- Shohatto
   El nombre hace referencia al “Inicio de los movimientos de espada”. Este movimiento es también llamado Mae en varios estilos que significa “adelante”.
 ### Notas

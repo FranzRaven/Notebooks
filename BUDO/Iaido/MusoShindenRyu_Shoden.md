@@ -1,3 +1,7 @@
+# ***************************
+# * Muso Shinden Ryu Shoden *
+# ***************************
+
 # 1- Shohatto
   El nombre hace referencia al “Inicio de los movimientos de espada”. Este movimiento es también llamado Mae en varios estilos que significa “adelante”.
 ## Notas
@@ -133,17 +137,63 @@
   El nombre Seishûtô implica que los movimientos de la espada van “Directo al centro” o “Verdaderamente centrado”.
 
   En Musô Jikiden Eishin Ryû este kata es llamado “Tsuki kage” esto es una metáfora que puede ser traducida como “sombra de luna”
+## Notas
+  + Shomen: Derecha
+  + Seiza 
+### Pasos
+  + giro derecha, patea con pie der paso muy amplio casi salto y baja mucho, casi arrodillado; bloqueo arriba-derecha
+  + 1/2 paso izq
+  + paso der, shomenuchi
+  + chiburi, levantándose
+  + cambia pies
+  + noto, arrodillándose
+  + arriba. junta pies
+
 
 
 # 10- Koranto
   El nombre significa “La carrera del tigre”.
 
   En Musô Jikiden Eishin Ryû este kata es llamado “Oi Kaze” que metafóricamente significa “viento de cola”. Toma este nombre porque literalmente puede verse como la persecución a un adversario. Sin embargo, como he dicho en otra parte de este libro, precisar una definición del contexto puede limitar la libertad de la aplicación.
+## Notas
+  + Shomen: Frente
+  + Parado
+### Pasos
+  + paso der
+  + paso izq, mason al arma
+  + paso der, corte a la sien
+  + paso izq
+  + paso der, shomenuchi
+  + chiburi, sin arrodillarse
+  + pie izq adelante, juntos
+  + Noto, levanta talon der
 
 # 11- In-yo Shintai Gyakute
   Ver In-yô Shintai. A este concepto se le suma al final la palabra “gyakute” o “kaete” que indica una variación del movimiento original. También podrás escuchar nombrar a este movimiento como “In-yô- Shintai Kaete”, “In-yô-Shintai Kae waza” o “Saka Te In-yô Shintai”.
+## Notas
+  + Somen: frente
+  + Seiza
+### Pasos
+  + paso der, corte sien
+  + paso izq, levantándose, shomenuchi
+  + noto horizontal, corto, arodillándose mientras
+  + 1/2 paso izq atras, tomar saya desde arrib
+  + 1/2 paso izq mas, defensa dejando caer espada a pierna der adelantada
+  + arrodillarse, 1/2 paso izq adelante
+  + paso der adelante, shomenuchi
+  + chiburi, levantandose
+  + cambio pies(izq adelante)
+  + noto, arrodillándose
+  + arriba, junta pies
 
 # 12- Batto, Nukiuchi
   El nombre significa “Desenvainar la espada”
-
   Este kata también es referido como “Nukiuchi”
+## Notas
+  + Shomen: frente
+  + Seiza
+### Pasos
+  + separar rodillas. mientras el nukitsuke es frente a uno horizaontal, frente al ombligo, speculum
+  + shomenuchi bajando aún más el hara
+  + chiburi corto, horizontal 
+  + noto, cerrando las rodillas

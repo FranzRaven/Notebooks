@@ -1,11 +1,7 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2020-06-29T07:21:34-03:00
 
-====== Bombas de Intuición y otras herramientas de pensamiento- Daniel Dennett ======
-Creado lunes 29 junio 2020
+# Bombas de Intuición y otras herramientas de pensamiento- Daniel Dennett 
 
-===== 12 Herramientas =====
+## 12 Herramientas 
 1. Cometer Errores
 * Importancia de la historia de la filosofia (historia de errores??)
 * investigación necesita las preguntas correctas
@@ -18,7 +14,7 @@ Creado lunes 29 junio 2020
 
 * peligro de buscar 5 patas al gato, divertir solo a amigos
 
-Reglas Rapoport
+## Reglas Rapoport
 1. reexpresar teoria del dialogante de forma imparcial, tal que éste diga que a él le hubiese gustado haberlo hecho así.
 2. hacer lista de puntos de acuerdo
 3. mencionar algo que nos haya enseñado

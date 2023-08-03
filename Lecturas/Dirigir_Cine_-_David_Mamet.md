@@ -1,9 +1,5 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2020-03-12T18:58:01-03:00
 
-====== Dirigir Cine - David Mamet ======
-Creado jueves 12 marzo 2020
+# Dirigir Cine - David Mamet 
  
 * Cine ruso de revolución "No había film asi que lo único que podíamos hacer era teorizar".
 * El teatro de Chejov estaba en su corazón.

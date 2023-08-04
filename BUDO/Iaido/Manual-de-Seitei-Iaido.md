@@ -5,7 +5,7 @@ de la Zen Nippon Kendo Renmei (ZNKR)
 Federación Argentina de Kendo (FAK), 2012
 
 ## ÍNDICE 
-+ [Prólogo, por la Federación Internacional de Kendo](-PRÓLOGO)
++ [Prólogo, por la Federación Internacional de Kendo](#PRÓLOGO)
 + Revisión del Manual de Iaido de la Zen Nippon Kendo Renmei 
 + Explicación de los motivos por los cuales se incorporaron los Kata 11 y 12
 + Actitud y Conducta
@@ -16,7 +16,7 @@ Federación Argentina de Kendo (FAK), 2012
 + Glosario de términos generales
 + Glosario de términos de competición
 + Glosario de términos relacionados con las partes del sable
-+ [Epílogo](#epílogo)
++ [Epílogo](#EPÍLOGO)
 
 ## PRÓLOGO
 El Kendo y el Iaido están íntimamente relacionados. Los practicantes de Kendo tienden a remitirse al Iaido no sólo para comprender mejor el manejo del sable, el Batto (desenvaine) y el Noto (envaine), sino también para comprender su espíritu. No es inusual que se pregunte a los practicantes de Kendo si también practican Iaido. Si respondiera que no, lo mirarían con sorpresa y hasta podría sentirse un poco avergonzado. El Kendo y el Iaido se consideran partes de una unidad y suele darse por sentado que quienes practican Kendo también practican Iaido. 

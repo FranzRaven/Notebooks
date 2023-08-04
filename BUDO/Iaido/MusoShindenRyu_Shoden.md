@@ -1,11 +1,11 @@
 #   Muso Shinden Ryu Shoden  
-#   
+   
 ## 1- Shohatto
   El nombre hace referencia al “Inicio de los movimientos de espada”. Este movimiento es también llamado Mae en varios estilos que significa “adelante”.
 ### Notas
   + Shomen: al frente
   + Seiza
-#### Pasos 
+### Pasos 
   + pie derecho, corte a la sien
   + 1/2 paso izquierdo, katana al hombro izq, mano der acomoda saya
   + paso der, shomenuchi
@@ -19,7 +19,7 @@
 ### Notas
   + Shomen: a la izq
   + Seiza
-#### Pasos
+### Pasos
   + giro izq
   + paso izq, corte a la sien
   + 1/2 paso der, katana al hobro der, manoo izq acomoda saya
@@ -34,7 +34,7 @@
 ### Notas
   + Shomen: derecha
   + Seiza
-#### Pasos
+### Pasos
   + giro a la derecha
   + paso derecho, corte a la sien
   + 1/2 paso izq
@@ -49,7 +49,7 @@
 ### Notas
   + Shomen: detras, 180°
   + Seiza
-#### Pasos
+### Pasos
   + giro sentido anti horario 180°
   + paso izq, corte a la sien
   + 1/2 paso der
@@ -64,7 +64,7 @@
 ### Notas
   + Shomen: frente
   + Seiza
-#### Pasos
+### Pasos
   + paso der, corte a la sien
   + paso izq, pararse, shomenuchi
   + Noto horizontal y corto, envainar casi hasta el final arrodillándose
@@ -83,7 +83,7 @@
 ### Notas
   + Shomen: izq
   + Seiza
-#### Notas
+### Notas
   + paso izq, sosteniendo el ataque por encima de la cabeza
   + paso derecho, katana detras de la nuca
   + paso der hacia el shomen, kesagiri
@@ -103,7 +103,7 @@
   asistente de sepukku
   + Shomen: frente
   + Seiza
-#### Pasos
+### Pasos
   + giro cadera hacia derecha
   + paso derecho, mientras desenvaina, el pie rebota, vuelve al centro, espada en alto, cerca del hombro der
   + paso der hacia Shomnen, kesagiri
@@ -119,7 +119,7 @@
 ### Notas
   + Shomen: frente
   + Seiza
-#### Pasos
+### Pasos
   + paso der adelante y vuelve
   + nukitsuke hacia arriba con los pies juntos
   + paso der, golpe a la cabeza
@@ -138,7 +138,7 @@
 ### Notas
   + Shomen: Derecha
   + Seiza 
-#### Pasos
+### Pasos
   + giro derecha, patea con pie der paso muy amplio casi salto y baja mucho, casi arrodillado; bloqueo arriba-derecha
   + 1/2 paso izq
   + paso der, shomenuchi
@@ -156,7 +156,7 @@
 ### Notas
   + Shomen: Frente
   + Parado
-#### Pasos
+### Pasos
   + paso der
   + paso izq, mason al arma
   + paso der, corte a la sien
@@ -171,7 +171,7 @@
 ### Notas
   + Somen: frente
   + Seiza
-#### Pasos
+### Pasos
   + paso der, corte sien
   + paso izq, levantándose, shomenuchi
   + noto horizontal, corto, arodillándose mientras
@@ -190,8 +190,8 @@
 ### Notas
   + Shomen: frente
   + Seiza
-#### Pasos
-  + separar rodillas. mientras el nukitsuke es frente a uno horizaontal, frente al ombligo, speculum
+### Pasos
+  + separar rodillas, mientras el nukitsuke es frente a uno horizaontal, frente al ombligo, speculum
   + shomenuchi bajando aún más el hara
   + chiburi corto, horizontal 
   + noto, cerrando las rodillas

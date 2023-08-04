@@ -42,7 +42,7 @@
 * salirse del marco
 * para innovar, trasgredir hay que conocer la tradicion
 
-9.Tres gouldeos, masbienismo, apilamiento y pasodoble de Gould
+9. Tres gouldeos, masbienismo, apilamiento y pasodoble de Gould
 * masbienismo, falsas dicotomías, por lo gral. el mundo no es binario. 
 * apilamiento
 * pasodoble 

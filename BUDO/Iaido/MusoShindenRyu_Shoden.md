@@ -1,6 +1,19 @@
-#   Muso Shinden Ryu Shoden  
-   
-## 1- Shohatto
+#   Muso Shinden Ryu Shoden(Omory Ryu) 
+* [1- Shohatto, Primer desenvaine](#1)
+* [2- Sato, Desenvaine a la izquierda](#2)  
+* [3- Uto, Desenvaine a la derecha](#3)  
+* [4- Atarito, Rompimiento](#4) 
+* [5- In-yo Shintai, Hacia adelante y hacia atrás](#5) 
+* [6- Ryuto, Ukenagashi, Guiando la espada](#6) 
+* [7- Junto, Siguiendo la espada](#7) 
+* [8- Gyakuto, Invertido](#8) 
+* [9- Seichuto, Forzando la espada](#9) 
+* [10- Koranto, La corrida del tigre](#10) 
+* [11- In-yo Shintai Gyakute, hacia adelante y atrás con el dorso(espada)](#11) 
+* [12- Batto, Nukiuchi, Desenvainar la espada rápido](#12) 
+
+## 1
+## Shohatto
   El nombre hace referencia al “Inicio de los movimientos de espada”. Este movimiento es también llamado Mae en varios estilos que significa “adelante”.
 ### Notas
   + Shomen: al frente
@@ -14,7 +27,8 @@
   + noto, envaine, a la vez q bajamos la rodilla del pie atrasado
   + nos incorporamos y adelantamos el pie atrasado(der)
 
-## 2- Sato
+## 2
+##  Sato
   El nombre significa “Movimiento de la espada a la izquierda”. En muchas escuelas es llamado Hidari, es decir a la “Izquierda”.
 ### Notas
   + Shomen: a la izq
@@ -29,7 +43,8 @@
   + noto mientras rodilla atrasada va al piso
   + arriba y adelanta pie atrasado
 
-## 3- Uto
+## 3
+## Uto
   El nombre significa “Movimiento de la espada a la derecha”. En muchas escuelas es llamado Migi, es decir a la “Derecha”.
 ### Notas
   + Shomen: derecha
@@ -44,7 +59,8 @@
   + noto, baja rodillla atrasada
   + arriba, junta pies, adelanta der
 
-## 4- Atarito
+## 4
+## Atarito
   El nombre implica “Movimiento de la espada que controla / golpea”. Este kata es conocido en muchas escuelas simplemente como Ushiro, es decir “Detrás”.
 ### Notas
   + Shomen: detras, 180°
@@ -59,7 +75,8 @@
   + Noto mientras la rodilla atrasada al suelo
   + arriba, junta pies
 
-## 5- In-yo Shintai
+## 5
+## In-yo Shintai
   Literalmente significa “Ying-Yang, hacia adelante y hacia atrás”
 ### Notas
   + Shomen: frente
@@ -77,7 +94,8 @@
   + Noto mientras bajamos la rodilla atrasada
   + arriba y juntamos pies
 
-## 6- Ryuto, Ukenagashi
+## 6
+## Ryuto, Ukenagashi
   Ryûtô significa “Movimiento de espada que posee una continuidad que fluye ininterrumpidamente”.
   Ukenagashi, significa “Recibir sin detener”.
 ### Notas
@@ -93,7 +111,8 @@
   + noto con mano der invertida, dejando caer la punta, bajar rodilla atrasada
   + arriba y junta pies
 
-## 7- Junto
+## 7
+## Junto
   También llamado Kaishakutô.
 
   El nombre Juntô tiene una raíz muy antigua: Junshi basado en la costumbre de morir cuando un Señor fallecía o “suicidio por fidelidad”. Esta costumbre es muy antigua y podemos hallar referencias hasta el siglo séptimo. Después, esta práctica paso a ser conocida como Seppuku y varias ramificaciones del ritual se desarrollaron. Para comprender completamente este fenómeno, debemos emprender un estudio cultural y filosófico de la vida y la historia en Japón. Juntô significa “los movimientos involucrados en el Junshi”
@@ -111,8 +130,9 @@
   + chiburi, tsuka al lado izq
   + noto con mano der invertida, deja caer punta, arrodillarse
   + arriba, junta pies
-  
-## 8- Gyakuto
+
+## 8
+## Gyakuto
   El nombre significa “Movimiento de sable invertido”.
 
   En Musô Jikiden Eishin Ryû este kata es llamado “Tsukekomi” que significa “persecución” 
@@ -131,7 +151,8 @@
   + noto frente al ombligo con agarre invertido
   + arriba, junta pies
 
-## 9- Seichuto
+## 9
+## Seichuto
   El nombre Seishûtô implica que los movimientos de la espada van “Directo al centro” o “Verdaderamente centrado”.
 
   En Musô Jikiden Eishin Ryû este kata es llamado “Tsuki kage” esto es una metáfora que puede ser traducida como “sombra de luna”
@@ -147,15 +168,14 @@
   + noto, arrodillándose
   + arriba. junta pies
 
-
-
-## 10- Koranto
+## 10
+## Koranto
   El nombre significa “La carrera del tigre”.
 
   En Musô Jikiden Eishin Ryû este kata es llamado “Oi Kaze” que metafóricamente significa “viento de cola”. Toma este nombre porque literalmente puede verse como la persecución a un adversario. Sin embargo, como he dicho en otra parte de este libro, precisar una definición del contexto puede limitar la libertad de la aplicación.
 ### Notas
   + Shomen: Frente
-  + Parado
+  + Tachi waza
 ### Pasos
   + paso der
   + paso izq, mason al arma
@@ -166,10 +186,11 @@
   + pie izq adelante, juntos
   + Noto, levanta talon der
 
-## 11- In-yo Shintai Gyakute
+## 11
+## In-yo Shintai Gyakute
   Ver In-yô Shintai. A este concepto se le suma al final la palabra “gyakute” o “kaete” que indica una variación del movimiento original. También podrás escuchar nombrar a este movimiento como “In-yô- Shintai Kaete”, “In-yô-Shintai Kae waza” o “Saka Te In-yô Shintai”.
 ### Notas
-  + Somen: frente
+  + Shomen: frente
   + Seiza
 ### Pasos
   + paso der, corte sien
@@ -184,7 +205,8 @@
   + noto, arrodillándose
   + arriba, junta pies
 
-## 12- Batto, Nukiuchi
+## 12
+## Batto, Nukiuchi
   El nombre significa “Desenvainar la espada”
   Este kata también es referido como “Nukiuchi”
 ### Notas

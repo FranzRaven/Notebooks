@@ -1,3 +1,15 @@
+---
+author: Der Franz
+title:  Diccionario de Iaido
+description: Ars Martialis
+pubDate: "May 02 2023"
+tags:
+  - Budo 
+  - Iaido
+
+---
+
+
 
 
 # GLOSARIO DE TÉRMINOS GENERALES 

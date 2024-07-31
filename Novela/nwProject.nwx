@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="2.5.1" hexVersion="0x020501f0" fileVersion="1.5" fileRevision="4" timeStamp="2024-07-28 21:29:50">
+  <project id="986fe3f9-5bb8-4bfa-9dbb-b645a8bf00ad" saveCount="5" autoCount="12" editTime="5843">
+    <name>Novela</name>
+    <author>Der Franz</author>
+  </project>
+  <settings>
+    <doBackup>yes</doBackup>
+    <language>es_419</language>
+    <spellChecking auto="yes">None</spellChecking>
+    <lastHandle>
+      <entry key="editor">c56d2b1da4abc</entry>
+      <entry key="viewer">None</entry>
+      <entry key="novelTree">4b87f52f4a653</entry>
+      <entry key="outline">4b87f52f4a653</entry>
+    </lastHandle>
+    <autoReplace />
+    <status>
+      <entry key="sb340d9" count="6" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s46037b" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
+      <entry key="s9e9682" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
+      <entry key="sda9900" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
+    </status>
+    <importance>
+      <entry key="i53b335" count="10" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="ie6ab2a" count="0" red="200" green="50" blue="0" shape="SQUARE">Minor</entry>
+      <entry key="ia02591" count="0" red="200" green="150" blue="0" shape="SQUARE">Major</entry>
+      <entry key="i6f2782" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
+    </importance>
+  </settings>
+  <content items="16" novelWords="56" notesWords="29">
+    <item handle="4b87f52f4a653" parent="None" root="4b87f52f4a653" order="0" type="ROOT" class="NOVEL">
+      <meta expanded="yes" />
+      <name status="sb340d9" import="i53b335">Novel</name>
+    </item>
+    <item handle="c56d2b1da4abc" parent="4b87f52f4a653" root="4b87f52f4a653" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H1" charCount="54" wordCount="9" paraCount="3" cursorPos="70" />
+      <name status="sb340d9" import="i53b335" active="yes">Title Page</name>
+    </item>
+    <item handle="d61e201a522f1" parent="4b87f52f4a653" root="4b87f52f4a653" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="222" wordCount="39" paraCount="1" cursorPos="229" />
+      <name status="sb340d9" import="i53b335" active="yes">Capítulo 1</name>
+    </item>
+    <item handle="08b996800d179" parent="4b87f52f4a653" root="4b87f52f4a653" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="10" wordCount="2" paraCount="0" cursorPos="0" />
+      <name status="sb340d9" import="i53b335" active="yes">Capítulo 2</name>
+    </item>
+    <item handle="32a9d179dd1da" parent="4b87f52f4a653" root="4b87f52f4a653" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="10" wordCount="2" paraCount="0" cursorPos="0" />
+      <name status="sb340d9" import="i53b335" active="yes">Capítulo 3</name>
+    </item>
+    <item handle="bcf5baa74db77" parent="None" root="bcf5baa74db77" order="1" type="ROOT" class="PLOT">
+      <meta expanded="no" />
+      <name status="sb340d9" import="i53b335">Plot</name>
+    </item>
+    <item handle="7f12a426773fc" parent="bcf5baa74db77" root="bcf5baa74db77" order="0" type="FILE" class="PLOT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
+      <name status="sb340d9" import="i53b335" active="yes">Main Plot</name>
+    </item>
+    <item handle="2cc67dd63f839" parent="None" root="2cc67dd63f839" order="2" type="ROOT" class="CHARACTER">
+      <meta expanded="yes" />
+      <name status="sb340d9" import="i53b335">Characters</name>
+    </item>
+    <item handle="348b7ab78b8f5" parent="2cc67dd63f839" root="2cc67dd63f839" order="0" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="141" wordCount="21" paraCount="1" cursorPos="73" />
+      <name status="sb340d9" import="i53b335" active="yes">Protagonist</name>
+    </item>
+    <item handle="dc48bf21f3465" parent="None" root="dc48bf21f3465" order="3" type="ROOT" class="WORLD">
+      <meta expanded="no" />
+      <name status="sb340d9" import="i53b335">Locations</name>
+    </item>
+    <item handle="336bf6fa224a0" parent="dc48bf21f3465" root="dc48bf21f3465" order="0" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="13" wordCount="2" paraCount="0" cursorPos="0" />
+      <name status="sb340d9" import="i53b335" active="yes">Main Location</name>
+    </item>
+    <item handle="973ebee7627f6" parent="None" root="973ebee7627f6" order="4" type="ROOT" class="ARCHIVE">
+      <meta expanded="no" />
+      <name status="sb340d9" import="i53b335">Archive</name>
+    </item>
+    <item handle="d332ba049388d" parent="None" root="d332ba049388d" order="5" type="ROOT" class="TRASH">
+      <meta expanded="yes" />
+      <name status="sb340d9" import="i53b335">Trash</name>
+    </item>
+    <item handle="cfd94dc91db66" parent="d332ba049388d" root="d332ba049388d" order="0" type="FOLDER" class="TRASH">
+      <meta expanded="no" />
+      <name status="sb340d9" import="i53b335">Title Page</name>
+    </item>
+    <item handle="40c8c129a4866" parent="cfd94dc91db66" root="d332ba049388d" order="0" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H1" charCount="18" wordCount="4" paraCount="1" cursorPos="0" />
+      <name status="sb340d9" import="i53b335" active="yes">Novela</name>
+    </item>
+    <item handle="4b5ed3f50a3e2" parent="d332ba049388d" root="d332ba049388d" order="1" type="FILE" class="TRASH" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="18" wordCount="4" paraCount="1" cursorPos="31" />
+      <name status="sb340d9" import="i53b335" active="yes">Title Page</name>
+    </item>
+  </content>
+</novelWriterXML>

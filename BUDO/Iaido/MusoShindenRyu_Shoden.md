@@ -1,3 +1,16 @@
+---
+author: Der Franz
+title:  MSR Shoden
+description: Ars Martialis
+pubDate: "May 12 2023"
+tags:
+  - Budo 
+  - Iaido
+
+
+---
+
+
 #   Muso Shinden Ryu Shoden(Omory Ryu)
 
 ---

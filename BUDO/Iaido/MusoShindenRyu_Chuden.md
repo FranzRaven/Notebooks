@@ -1,3 +1,14 @@
+---
+author: Der Franz
+title:  MSR Chuden
+description: Ars Martialis
+pubDate: "May 22 2023"
+tags:
+  - Budo 
+  - Iaido
+
+---
+
 # Muso Shinden Ryu Chuden(Hasegawa Eishin Ryu)
 
 ---
